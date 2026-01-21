@@ -1,1 +1,1 @@
-# Hotel_Booking_Analytics_Snowflake
+# Hotel Booking Analysis – End-to-End Data Engineering in Snowflake
