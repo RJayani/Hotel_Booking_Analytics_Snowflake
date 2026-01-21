@@ -29,5 +29,16 @@ Raw hotel booking data was ingested into Snowflake, cleaned and transformed usin
     *   Bookings by Status
     *   Bookings by Room Type
     *   These tables are optimized for BI tools and business consumption.
-      
+
+## Dashboard (Power BI): 
+The Gold tables were connected to Power BI to create a fully interactive dashboard.
+KPIs Included:
+*   Total Revenue
+*   Total Bookings
+*   Revenue by City (Top 10)
+*   Monthly Booking Trends
+*   Room Type Distribution
+*   Bookings by Status
+
+
 
